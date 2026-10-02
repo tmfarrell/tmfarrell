@@ -1,6 +1,6 @@
 <!-- Draft profile README for github.com/tmfarrell/tmfarrell (create a PUBLIC repo named exactly "tmfarrell" and add this as README.md) -->
 
-# Hi there 👋
+## Hi there 👋
 
 I'm a product builder/ leader, building data and AI/ML products for bio/ health/ medicine.  
 
