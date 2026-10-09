@@ -4,9 +4,9 @@
 
 I'm a product builder/ leader, building data and AI/ML products for bio/ health/ medicine.  
 
-Specifically, I've led development for several large-scale real-world data and clinical AI products (e.g., billions of clinical records, 100s of models), many from concept through to commercial impact. 
+Specifically, I've led development for several real-world data and clinical AI platforms and products (e.g., billions of records, 100s of models), often from concept through to commercial impact. 
 
-You can check out some of various things I've worked on [here](https://tmfarrell.github.io/building/).  
+You can check out the things I've worked on [here](https://tmfarrell.github.io/building/).  
 
 More links:  
 [website](https://tmfarrell.github.io/) · [resume](https://tmfarrell.github.io/resume/) · [linkedIn](https://www.linkedin.com/in/tfarrell01/) · tfarrell01@gmail.com
